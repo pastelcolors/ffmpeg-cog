@@ -1,0 +1,10 @@
+build:
+  python_version: "3.11"
+  system_packages:
+    - "ffmpeg"
+  python_packages:
+    - "numpy"
+    - "boto3"
+    - "python-dotenv"
+
+predict: "predict.py:Predictor"
