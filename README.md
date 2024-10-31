@@ -63,3 +63,7 @@ The service handles various error cases:
 - R2 upload issues
 - Missing credentials
 - Invalid input files
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
